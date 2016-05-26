@@ -1,0 +1,59 @@
+.comments {
+	
+}
+
+.comment {
+
+}
+
+.commentId {
+	float: right;
+	font-weight: bold;
+	padding: 3px;
+}
+
+.commentId a {
+	color: black;
+	text-decoration: none;
+}
+
+.commentId:hover {
+	text-decoration: none;
+	background-color: #808080;
+	border-radius: 3px;
+}
+
+
+.commentHeader {
+
+}
+
+.commentTitle a { 
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	padding: 3px;
+}
+
+.commentTitle a:hover { 
+	background-color: #808080;
+	border-radius: 3px;
+}
+
+.commentTime {
+	font-weight: bold;
+}
+
+.commentBody {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.commentFooter a:hover {
+	color: black;
+}
+
+.commentFooter a {
+	color: black;
+}
+

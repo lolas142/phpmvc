@@ -1,0 +1,1 @@
+Elias Tångring även känd som McKnubb på sociala medier och spel. Elias studerar numera webbprogramering vid Blekinge Tekniska Högskola. Elias föredrar att spela spel och vara med gammla och nya vänner.
